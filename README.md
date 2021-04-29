@@ -1,4 +1,4 @@
-# Thyroid Disease Prediction using Back Propagation Neural Network
+# Thyroid Disease Classification using Back Propagation Neural Network
 
 ## Library Used: 
 1. Numpy, Pandas : For Data processing
